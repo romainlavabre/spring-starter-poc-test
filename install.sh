@@ -25,7 +25,6 @@ CLASSES=(
     "$1/client/PocMock.java"
     "$1/exception/HttpNotFoundException.java"
     "$1/loader/Context.java"
-    "$1/loader/mock/EntityHandler.java"
     "$1/loader/mock/MockApplicationContext.java"
     "$1/loader/mock/MockRequest.java"
     "$1/loader/mock/MockRequestMappingHandlerMapping.java"
